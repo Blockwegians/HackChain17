@@ -2,7 +2,7 @@ console.log('Starting App.');
 
 const fs = require('fs');
 
-var patientRef = "0251"
+var patientRef = "1485"
 
 var getPatRecords = (patientRef) => {
     var allRecords = fs.readFileSync('patientRecords.json');
