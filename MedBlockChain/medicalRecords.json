@@ -1,0 +1,7 @@
+[
+  {"Ref": "0251", "LastVisit": "02/05/2017", "Allergens": "peanuts ", "BloodType": "A"},
+  {"Ref": "1485", "LastVisit": "06/04/2016", "Allergens": "seafood ", "BloodType": "B+"},
+  {"Ref": "2460", "LastVisit": "02/06/2016", "Allergens": "Kiwis, Cats", "BloodType": "B"},
+  {"Ref": "3785", "LastVisit": "04/06/2017", "Allergens": "Coffee", "BloodType": "O"},
+  {"Ref": "6280", "LastVisit": "06/04/2014", "Allergens": "Jelly", "BloodType": "A"}
+]
